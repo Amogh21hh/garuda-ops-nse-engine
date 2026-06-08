@@ -97,35 +97,23 @@ streamlit run app_garuda_main.py
 
 The app opens at `http://localhost:8501`.
 
----
 
-## 6. Screenshots
-
-<!-- Replace these placeholders after taking screenshots from the live app -->
-![Execution Matrix](assets/01_execution_matrix.png)
-*Per-share allocation with sector caps, target/stop pricing, and live cost reconciliation.*
-
-![XAI Attribution](assets/02_xai_attribution.png)
-*Signal contribution per position — Hurst, absorption, Z-score, ATR regime.*
-
-![Ghost-Tester](assets/03_ghost_test.png)
-*Historical as-of date backtest. Win/loss grading against forward 30-day OHLC.*
 
 ---
 
-## 7. Compliance
+## 6. Compliance
 
 This is an educational research artefact. Outputs are statistical signals, not investment advice. The Indian capital markets are regulated by SEBI; consult a SEBI-registered investment adviser before deploying capital. Past signal performance is not indicative of future results.
 
 ---
 
-## 8. License
+## 7. License
 
 MIT — see [LICENSE](LICENSE).
 
 ---
 
-## 9. Author
+## 8. Author
 
 **Amogh H. H.** — MSc Business Analytics, University of Essex
 [LinkedIn](https://linkedin.com/in/amogh-hh-34129a1b9) · [Portfolio](https://amogh-h-h-portfolio.vercel.app) · amoghmallikarjun0321@gmail.com
